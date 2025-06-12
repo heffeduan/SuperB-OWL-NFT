@@ -11,7 +11,20 @@ const addressPayout = ["0xf29f8b8e2ed3B9d18e99d4d2c874C803D0aCAA52", "0xf39Fd6e5
 // Using HTTPS
 //const web3 = createAlchemyWeb3(
  // "https://eth-mainnet.alchemyapi.io/nft/v2/demo",
-//);
+/*
+var mysql = require('mysql');
+
+var con = mysql.createConnection({
+  host: "-----",
+  user: "----",
+  password: "-----"
+});
+
+con.connect(function(err) {
+  if (err) throw err;
+  console.log("Connected!");
+});
+*/
 
 const Rewards = ({ accounts, setAccounts }) => {
 	const isConnected = Boolean(accounts[0]);
