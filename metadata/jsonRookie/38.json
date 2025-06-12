@@ -1,0 +1,19 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Team", 
+            "value": "Jacksonville Jaguars"
+        }, 
+        {
+            "trait_type": "Series", 
+            "value": 2
+        }, 
+        {
+            "trait_type": "Tier", 
+            "value": "Rookie"
+        }
+    ], 
+    "image": "https://gateway.pinata.cloud/ipfs/QmeYqtkYbu315hvNqjveHuDYgcFbW4dYWZ2ELuxoozSPbU/Jacksonville Jaguars.png", 
+    "name": "THE SUPERB OWL CLUB Rookie #38", 
+    "tokenId": 38
+}

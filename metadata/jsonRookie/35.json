@@ -1,0 +1,19 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Team", 
+            "value": "Washington Commanders"
+        }, 
+        {
+            "trait_type": "Series", 
+            "value": 2
+        }, 
+        {
+            "trait_type": "Tier", 
+            "value": "Rookie"
+        }
+    ], 
+    "image": "https://gateway.pinata.cloud/ipfs/QmeYqtkYbu315hvNqjveHuDYgcFbW4dYWZ2ELuxoozSPbU/Washington Commanders.png", 
+    "name": "THE SUPERB OWL CLUB Rookie #35", 
+    "tokenId": 35
+}

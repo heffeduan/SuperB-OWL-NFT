@@ -1,0 +1,19 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Team", 
+            "value": "Dallas Cowboys"
+        }, 
+        {
+            "trait_type": "Series", 
+            "value": 2
+        }, 
+        {
+            "trait_type": "Tier", 
+            "value": "Rookie"
+        }
+    ], 
+    "image": "https://gateway.pinata.cloud/ipfs/QmeYqtkYbu315hvNqjveHuDYgcFbW4dYWZ2ELuxoozSPbU/Dallas Cowboys.png", 
+    "name": "THE SUPERB OWL CLUB Rookie #60", 
+    "tokenId": 60
+}

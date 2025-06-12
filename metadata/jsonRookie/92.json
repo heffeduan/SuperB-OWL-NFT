@@ -1,0 +1,19 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Team", 
+            "value": "Detroit Lions"
+        }, 
+        {
+            "trait_type": "Series", 
+            "value": 3
+        }, 
+        {
+            "trait_type": "Tier", 
+            "value": "Rookie"
+        }
+    ], 
+    "image": "https://gateway.pinata.cloud/ipfs/QmeYqtkYbu315hvNqjveHuDYgcFbW4dYWZ2ELuxoozSPbU/Detroit Lions.png", 
+    "name": "THE SUPERB OWL CLUB Rookie #92", 
+    "tokenId": 92
+}

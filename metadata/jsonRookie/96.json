@@ -1,0 +1,19 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Team", 
+            "value": "New York Giants"
+        }, 
+        {
+            "trait_type": "Series", 
+            "value": 3
+        }, 
+        {
+            "trait_type": "Tier", 
+            "value": "Rookie"
+        }
+    ], 
+    "image": "https://gateway.pinata.cloud/ipfs/QmeYqtkYbu315hvNqjveHuDYgcFbW4dYWZ2ELuxoozSPbU/New York Giants.png", 
+    "name": "THE SUPERB OWL CLUB Rookie #96", 
+    "tokenId": 96
+}
