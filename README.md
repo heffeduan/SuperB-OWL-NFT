@@ -1,4 +1,4 @@
-# 🦉 The Superb Owl Club NFT — Quick-start**
+# 🦉 The Superb Owl Club NFT — Quick-start
 
 This repo holds everything you need to develop, test, and deploy the Superb Owl Club ERC-721 contract:
 
